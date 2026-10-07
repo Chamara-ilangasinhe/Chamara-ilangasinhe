@@ -5,8 +5,8 @@ I'm a passionate **Full-Stack Web Developer** who loves building modern, scalabl
 
 - 🔭 I’m currently working on web applications and software solutions.
 - 💬 Ask me about **HTML, CSS, JavaScript, React, PHP, Node.js, Express, and MySQL**.
-- 📫 How to reach me:ramesh.c.ilangasinhe@gmail.com
-- 🌐 Portfolio:https://rameshchamara20.github.io/Chamara-dev/
+- 📫 How to reach me: [rameshchamara20@gmail.com](mailto:rameshchamara20@gmail.com)
+- 🌐 Portfolio: [rameshchamara20.github.io/Chamara-dev](https://rameshchamara20.github.io/Chamara-dev/)
 
 ---
 
@@ -28,5 +28,9 @@ I'm a passionate **Full-Stack Web Developer** who loves building modern, scalabl
 ---
 
 ### 📊 GitHub Stats
-![Chamara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chamara-ilangasinhe&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chamara-ilangasinhe&layout=compact&theme=radial)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chamara-ilangasinhe&show_icons=true&theme=tokyonight" alt="Chamara's GitHub stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamara-ilangasinhe&layout=compact&theme=tokyonight" alt="Top Languages" width="49%" />
+</p>
+
