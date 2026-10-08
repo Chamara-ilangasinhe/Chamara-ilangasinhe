@@ -5,8 +5,8 @@ I'm a passionate **Full-Stack Web Developer** who loves building modern, scalabl
 
 - 🔭 I’m currently working on web applications and software solutions.
 - 💬 Ask me about **HTML, CSS, JavaScript, React, PHP, Node.js, Express, and MySQL**.
-- 📫 How to reach me: [rameshchamara20@gmail.com](mailto:rameshchamara20@gmail.com)
-- 🌐 Portfolio: [rameshchamara20.github.io/Chamara-dev](https://rameshchamara20.github.io/Chamara-dev/)
+- 📫 How to reach me: ramesh.c.ilangasinhe@gmail.com
+- 🌐 Portfolio: https://chamara-devstudio.site.je/
 
 ---
 
