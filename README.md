@@ -1,36 +1,19 @@
 # Hi there, I'm Chamara Ilangasinhe 👋
 
-### 👨‍💻 About Me
-I'm a passionate **Full-Stack Web Developer** who loves building modern, scalable, and high-performance web applications.
-
-- 🔭 I’m currently working on web applications and software solutions.
-- 💬 Ask me about **HTML, CSS, JavaScript, React, PHP, Node.js, Express, and MySQL**.
-- 📫 How to reach me: ramesh.c.ilangasinhe@gmail.com
-- 🌐 Portfolio: https://chamara-devstudio.site.je/
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages & Frontend:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-**Backend & Databases:**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chamara-ilangasinhe&show_icons=true&theme=tokyonight" alt="Chamara's GitHub stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamara-ilangasinhe&layout=compact&theme=tokyonight" alt="Top Languages" width="49%" />
+<p align="center">
+  <img src="https://github.com/Chamara-ilangasinhe/Chamara-ilangasinhe/commit/989be5cbf7ff18d181059b8deaad95e1f61f28ca" alt="Chamara Ilangasinhe" width="200px" style="border-radius: 50%;" />
 </p>
 
+---
+
+### 💻 System Info & Profile
+
+```yaml
+SYSTEM.INFO
+  - Subject    : Chamara Ilangasinhe[span_1](start_span)[span_1](end_span)
+  - Role       : Full-Stack Web Developer[span_2](start_span)[span_2](end_span)
+  - Origin     : Sri Lanka[span_3](start_span)[span_3](end_span)
+  - Status     : Ready to Build & Code[span_4](start_span)[span_4](end_span)
+  - Core.Lang  : HTML, CSS, JavaScript, PHP[span_5](start_span)[span_5](end_span)
+  - Core.Tools : Git, GitHub, VS Code, XAMPP[span_6](start_span)[span_6](end_span)
+  - Contact    : rameshchamara20@gmail.com[span_7](start_span)[span_7](end_span)
