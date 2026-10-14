@@ -8,7 +8,7 @@
 <tr>
 <td align="center" width="40%">
 
-<img src="https://raw.githubusercontent.com/Chamara-ilangasinhe/Chamara-ilangasinhe/main/your-photo.jpg" alt="Chamara Ilangasinhe" width="180px" style="border-radius: 50%;" />
+<img src="https://raw.githubusercontent.com/Chamara-ilangasinhe/Chamara-ilangasinhe/main/1767231947388.jpg" alt="Chamara Ilangasinhe" width="180px" style="border-radius: 50%;" />
 
 ### **Chamara Ilangasinhe**
 **Full-Stack Web Developer**
