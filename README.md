@@ -1,46 +1,36 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Chamara-ilangasinhe&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 # Hi there, I'm Chamara Ilangasinhe 👋
 
-<table align="center">
-<tr>
-<td align="center" width="40%">
+### 👨‍💻 About Me
+I'm a passionate **Full-Stack Web Developer** who loves building modern, scalable, and high-performance web applications.
 
-<img src="https://raw.githubusercontent.com/Chamara-ilangasinhe/Chamara-ilangasinhe/main/1767231947388.jpg" alt="Chamara Ilangasinhe" width="180px" style="border-radius: 50%;" />
+- 🔭 I’m currently working on web applications and software solutions.
+- 💬 Ask me about **HTML, CSS, JavaScript, React, PHP, Node.js, Express, and MySQL**.
+- 📫 How to reach me: ramesh.c.ilangasinhe@gmail.com
+- 🌐 Portfolio: https://chamara-devstudio.site.je/
 
-### **Chamara Ilangasinhe**
-**Full-Stack Web Developer**
+---
 
-</td>
-<td width="60%">
+### 🛠️ Tech Stack & Tools
 
-```yaml
-SYSTEM.INFO
-  - Subject    : Chamara Ilangasinhe
-  - Role       : Full-Stack Web Developer
-  - Origin     : Sri Lanka
-  - Status     : Ready to Build & Code
-  - Core.Lang  : HTML, CSS, JavaScript, PHP
-  - Core.Tools : Git, GitHub, VS Code, XAMPP
-  - Contact    : ramesh.c.ilangasinhe@gmail.com
-  - Portfolio  : https://chamara-devstudio.site.je
+**Languages & Frontend:**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### 🚀 Open To
-​💼 Web Development & Freelance Projects
-​🤝 Collaborating on Open-Source Educational Tools & Apps
-​💡 Building Innovative Full-Stack Solutions
-### ​📊 GitHub Stats & Metrics
-​<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Chamara-ilangasinhe&show_icons=true&theme=tokyonight&hide_border=true" alt="Chamara's GitHub stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamara-ilangasinhe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+**Backend & Databases:**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chamara-ilangasinhe&show_icons=true&theme=tokyonight" alt="Chamara's GitHub stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamara-ilangasinhe&layout=compact&theme=tokyonight" alt="Top Languages" width="49%" />
 </p>
-​<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chamara-ilangasinhe&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-</p>
-​### 📈 Contribution Activity
-​<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chamara-ilangasinhe&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-</p>
-​Build robust web systems. Engineer for reliability. Automate what matters.
+
