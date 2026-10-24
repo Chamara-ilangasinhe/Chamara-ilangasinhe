@@ -62,3 +62,5 @@
 *Thanks for visiting my profile!*
 
 </div>
+
+![GitHub Snake](https://raw.githubusercontent.com/Chamara-ilangasinhe/Chamara-ilangasinhe/output/github-contribution-grid-snake.svg)
